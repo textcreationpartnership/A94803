@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of that eternal breath begotten and brought forth not of flesh &amp; blood, nor of the will of man but by the Father of spirits, which according to his own wil worketh to wil &amp; to do of his good pleasure, when, or in whom he pleaseth.</title>
+            <author>R. T. (Rebecca Travers), 1609-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94803</idno>
+            <idno type="STC">Wing T2060</idno>
+            <idno type="STC">ESTC R185429</idno>
+            <idno type="EEBO-CITATION">47683504</idno>
+            <idno type="OCLC">ocm 47683504</idno>
+            <idno type="VID">172963</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172963)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2659:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of that eternal breath begotten and brought forth not of flesh &amp; blood, nor of the will of man but by the Father of spirits, which according to his own wil worketh to wil &amp; to do of his good pleasure, when, or in whom he pleaseth.</title>
+                  <author>R. T. (Rebecca Travers), 1609-1688.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Signed at end: Rebecka Travers.</note>
+                  <note>Initial.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Holy Spirit --  Quaker authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172963:1" rendition="simple:additions"/>
+            <head>Of that Eternal Breath begotten and brought forth not of fleſh &amp; blood, nor of the will of man, but by the Father of ſpirits, which according to his own wil worketh to wil &amp; to do of his good pleaſure, when, or in whom he pleaſeth</head>
+            <p>
+               <seg rend="decorInit">A</seg>M I moved to warn you the Pariſhioners of <hi>Aſhted,</hi> &amp; all others as opportunity is given? who as you in the darkneſs are, and know not what you are doing, nor whether you are going, who from the light are, out of the Covenant, and ſo not taught of God, but are alwayes learning as ſilly Women, but never come to the knowledge of the truth, that he who is righteous in all his Judgements, and faithful in all his promiſes, <hi>who was dead, but is alive,</hi> is riſen in great power, and is dreadful to all his e<g ref="char:EOLhyphen"/>nemies, rendringvengeance on all that know him not, and yet wills that all men would repent and live; <hi>ſo loving the world, that he hath given his onely begotten a light into the world, that whoſo comes to him ſhall not abide in darkneſs;</hi> And this is the common ſalvation which was and is declared by all ſent of him<g ref="char:punc">▪</g> who is no reſpecter of perſons, but will be worſhipped in truth and in ſpirit; and for ſuch worſhippers doth he now ſeek every where, all other Worſhip being an abomination, Who hath required them at their hands, ſaith the Lord? who in his Son onely is well pleaſed; and though in the day of darkneſſe God winked, yet now having viſited from on high with his day-ſpring, (you that ſit in darkneſs and in the Regions of death) requires all to return from the darkneſs to the light with which you are enlightened, which convinces of ſin, and
+<pb n="2" facs="tcp:172963:2"/> condemnes the evil doer, that by his Judgements the ſoul may be redeemed.</p>
+            <p>And this is no new invented Fable, or error, as your Hire<g ref="char:EOLhyphen"/>ling teachers tell you, who are talking of a Goſpel, and are found fighters againſt the true and everlaſting Goſpel, which <hi>Moſes</hi> and the Apoſtles were witneſſes of, which is, nigh, and not far off, the gift of God freely, not ſold or bought for money, as thoſe deceivers would make you believe, who are upholding the firſt Prieſthood by taking tythes, and ſo deny Chriſt come in the fleſh, as Pope, Prellate, &amp; Prieſt, though in words confeſſing, yet in works deny him that come to put an end to the firſt, that he might conſecrate to himſelf a new and a living way, which way in the light is ſeen and learned, and the Scriptures declare of it; ſay not who ſhall aſcend on high and fetch him down, or go down into the depths and fetch him up, for he is neer thee in thy heart, and in thy mouth, and this is the Goſpel <hi>Paul</hi> taught who was called of God and not of men, and ſent to turn people from dark<g ref="char:EOLhyphen"/>neſs to light, and from the power of Satan unto God, and I of grace being made a witneſs of the ſame Goſpel, and an heir of the ſame Covenant, as moved of God, call on you to come thereto; that in the light you may behold the way of the juſt, for the wicked are poſting to deſtruction, and be<g ref="char:EOLhyphen"/>ing in the darkneſs know not where you are, nor whether you go, and that you are there in your worſhips and meet<g ref="char:EOLhyphen"/>ings, hath been confeſt to by your teacher, whom when I met coming to viſit <hi>William Burcheds</hi> wife would have paſt by me, but I calling to him to hear me, he haſted away as for<g ref="char:EOLhyphen"/>merly, and with anger asked me, Why I ſat all that while in darkneſs, (meaning while I ſat and heard him in his Pulpet?) ſayes he, Thou heardeſt darkneſs, why dideſt not thou ſpeake afore, but ſat in darkneſs all that while thou heardeſt me? ſo people, if as by his own confeſſion I ſat in darkneſs, and heard darkneſs, who heard him but an hour on that day, what do you that hear him weekly and think you ſerve God in it? truly they that hearken to darkneſs hearken to the devil who is the Prince of darkneſs, and they that ſit in darkneſs ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in
+<pb n="3" facs="tcp:172963:2"/> the kingdome of the Devil, who rules in darkneſs, and I con<g ref="char:EOLhyphen"/>feſs I did heare darkneſs there, and the fruits of darkneſs, were manifeſt, and I in the light ſaw the darkneſs, and had power to witneſs againſt the Doctrine of darknes, and in the ſame power ſhould have proved it to be a Doctrine of dark<g ref="char:EOLhyphen"/>neſs by plain Scriptures, had he not fled when feare ſurpri<g ref="char:EOLhyphen"/>zed him, as it will do all that are in darkneſs.</p>
+            <p>And ſo teacher and people, who teach and hear in darkneſs; of the Lord who is light are you warned once more, and while you have time prize it, to turn from the darkneſs, and to the light attend, which condemns the darkneſs and leads out of it, and by it onely is the knowledge of God gained, and by it onely is power obtained over death, and over him that hath the power of death, the devil, for Chriſt the light was and is manifeſt to deſtroy the wor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the devil, the works of darkneſs, and this muſt you know, obey, and be<g ref="char:EOLhyphen"/>lieve in, which convinces of ſin and calls out of the worlds wayes and worſhips, which are in the darkneſſe, ere the pro<g ref="char:EOLhyphen"/>miſe you can obtain, which makes partakers of the divine nature, and in Chriſt Jeſus is the yea and Amen; which all who in the darkneſſe are, are reſiſting and ſtriving againſt, for he is light, yea the true light which enlightens every man that comes into the world, and by this onely can man and wo<g ref="char:EOLhyphen"/>man fallen from God come to ſee what they were, where they are, and whether they are going, and by this which is the truth in the inward parts, onely can man and woman be free'd, from the bonds of darkneſſe, and by the light on<g ref="char:EOLhyphen"/>ly muſt the powers of darkneſſe be brought under and con<g ref="char:EOLhyphen"/>ſumed, for there is no other name for ſalvation but the light and truth, Chriſt Jeſus whoſe firſt appearance is to deſtroy ſin in the fleſh.</p>
+            <p>Mind it people, hath not the grace of God appeared to you all? doth it not yet ſtrive with many of you, ſhewing your unrighteouſneſs and calling out of it? verily this is it that hath and doth teach the children of light, to deny all ungodlynes and worldy luſts, and to walk ſoberly, righteouſly, and god<g ref="char:EOLhyphen"/>yl in this preſent world, &amp; that of this you might be taught &amp;
+<pb n="4" facs="tcp:172963:3"/> led by it out of the ſnares of the Devill, hath the Lord ſent his ſervants to call you out of darkneſs, and to beare witneſs againſt all that deceive your ſouls by falſe Doctrines, and fain<g ref="char:EOLhyphen"/>ed ſpeeches, which have run and God never ſent them, there<g ref="char:EOLhyphen"/>fore they profit you not, who make Merchandize of your ſouls, vvho ſel the Scriptures for money; theſe are they of whom the Scripture ſpeaks, that feed upon the ſheep but feed not the ſheep; they ſend for their gain from their quarter, and if they have it not, they raiſe war againſt you; is it not ſo? An horrible thing is committed in the Land, the Prieſts preach for hire, and the people love to have it ſo; but what will you do in the latter end? Confeſſe people, is it not ſo with you and your Teacher? And the Lord is my witneſs whom I ſerve in the ſpirit, that I have not envy, ha<g ref="char:EOLhyphen"/>tred or Wrath towards any man, Teacher, or Hearer, but in the meek ſpirit and fear of the living God, have ſpoke and writ in good will unto all, being there to called of him who warns all, and is calling and gathering his ovvn out of <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> vvhere the many Languages and Opinions are See people, Is it not your Teachers that are in the confuſion, drawing the people after them; ſome crying for Prelacy, others for Presby<g ref="char:EOLhyphen"/>tery, others for Independency, &amp; others for Baptiſm; with ſeve<g ref="char:EOLhyphen"/>ral other opinions, as viſibly apears to all? &amp; in this day is light ariſen, which vvhoſo have received it, ſee that the Whore hath made drunk both Powers and People with her abominations, that they reel to and fro, and many muſt fall and ſleep, and never awake again; for the time of her righteous Judgement is come, vvho hath long deceived Nations and people, and into the pit vvith the Beaſt that carryes her, muſt ſhe be turn<g ref="char:EOLhyphen"/>ed to be tormented for evermore.</p>
+            <p>And bleſſed are they that underſtand theſe things, and come out from her, that they be not plagued with her whoſe deſtruction is ſudden and ſure, and ſhe knows it not.</p>
+            <p>And people, I having nothing elſe in my eye but the exal<g ref="char:EOLhyphen"/>tation of that Name (unto vvhich every Knee muſt bow) &amp; the ſalvation of your ſouls, cannot but uſe much plaineſs, as ne vvho vvas long in the dark as you are, and thought I did
+<pb n="5" facs="tcp:172963:3"/> God ſervice in running after men to teach me, and in taking the Scriptures for my rule, and read them daily, but erred, not knowing them as all you do who to the light are not come; for the Scriptures are of no private interpretation, but were written by holy men as they vvere moved by the holy Ghoſt, and are only revealed and interpreted by the ſame ſpirit; and the unlearned vvhich are not taught by this ſpirit, pervert them to their ovvn deſtruction, as they did which read them daily, and yet put Chriſt to death of vvhom the Scriptures witneſſed. And truly, he that is the Rule and the Way of Eter<g ref="char:EOLhyphen"/>nal Life, is this day ſlain by the Readers and Profeſſors of the Scriptures, ſpiritually, in the ſtreet of the great City, ſpiritu<g ref="char:EOLhyphen"/>ally called <hi>Aegypt,</hi> as ſure as he vvas crucified at <hi>Jeruſalem,</hi> and though many vvho are doing it, know it not no more then they did vvho if they had knovvn, would not have put to death the Lord of Life: Yet both they had, and you have the Viſitation of the <hi>Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ht</hi> to lead out of the darkneſs; &amp; this is the Rule by which you muſt walk if ever you come to the vvay of life, <hi>for there is no other Name whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eby any can be ſaved, but by Chriſt Jeſus the Light of the World; and this is the true light that enlightens every one that comes into the world:</hi> So our God, who is the living God, and is no reſpecter of perſons, ſhall be righ<g ref="char:EOLhyphen"/>teous when he comes to Judgement, who hath given to every one of you a gift to profit withall; and as to this you are faithful which reproves all evil of thought, word or deed, the eye ſhall be opened, and the Vail rent, and he known who o<g ref="char:EOLhyphen"/>pens the Scriptures, and gives the knowledge of God, who dwels in the light, &amp; diſobedience to this hath filled the World and all minds with darkneſs and error; but God will reco<g ref="char:EOLhyphen"/>ver his own Inheritance out of the hands of the Deſtroyer in this the day of his Power, which ſhall bring down all the Po<g ref="char:EOLhyphen"/>wers of darkneſs, which yet are upheld by the ſtrong Works of darkneſs, perſecuting &amp; lying, either putting in priſon, ſtock<g ref="char:EOLhyphen"/>ing whipping or bearing thoſe which are ſent to ſhew them their darkneſs and nakedneſs, and to call them to repentance; or by falſe accuſing and lying againſt the Truth and Witneſ<g ref="char:EOLhyphen"/>ſes thereof in their Pulpits and elſewhere, as that vve deny
+<pb n="7" facs="tcp:172963:4"/> Chriſt that dyed at Jeruſalem, and the Scriptures, and Magi<g ref="char:EOLhyphen"/>ſtrates, and Laws, and Miniſters, and Relations, which comes all from the Lyar their Father, which begets and brings forth lyes; for though the children of the Light deny and witneſs a<g ref="char:EOLhyphen"/>gainſt all the evils of theſe which in the vain imaginations of man hath been invented and brought in; yet all theſe things as the Truth is in Jeſus, we confeſs to and witneſs for, againſt all them that are departed from the truth thereof; and to all theſe particulars there are Anſwers in pring by ſeveral of the ſervants of the Lord, that their lye may be manifeſt who are accuſing of the Brethren, and ſpeaking evil of things they know not; but the Work of the Lord ſhall proſper, and the Wheat ſhall be gathered into the Ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner, and the Chaff ſhall be burned with the unquenchable fire; for the day of the Lord ſhall burn as an Oven, and the Wicked ſhall be as ſtubble therein. And the ſigns of his coming are ſeen, who as a Thief in the night wil come upon all thoſe who to the Light are not turned, and his reward is with him.</p>
+            <p>Therefore great and ſmall, high and low, fear before the living-God, and come to know the true and faithful witneſs of God which was with him in the beginning of the Creati<g ref="char:EOLhyphen"/>on; and we that believe have the Witneſs in our ſelves; and without you fell and obey that which condemns all unrighte<g ref="char:EOLhyphen"/>ouſneſs, earthly mindedneſs, and ſhews your darkneſs, you ſhall never find cleanſing, and in ſin none are juſtified; for our God (beſide him there is no God) is of purer eyes then to behold iniquity.</p>
+            <p>So all you to whom this comes, ſlight not the day of your viſitation, for it will ſoon paſſe over your heads; let not the love of this World nor eaſe and pleaſures, keep your ſouls in death; nor fear of men which can only kill your bodies which muſt return to duſt, but mind that which is given to redeem your ſouls out of the bonds of death by, breaking the Serpents head, which hath and doth captivate in Chains of darkneſs, &amp; by the Seed onely that muſt be deſtroyed, which is very ſmall among you; yet for it, and to it is the proclamation of the everlaſting Goſpel.</p>
+            <pb n="8" facs="tcp:172963:4"/>
+            <p>Fear God and give glory to him, for the hour of his righ<g ref="char:EOLhyphen"/>teous Judgement is come, and from heaven he is revealed in flames of fire, to take vengeance on them that know him not; and in love to all your ſouls hereof are you warned by me who am a Witneſs of the new Covenant in the heart, written in the inner parts, taught of God, knowing the pouring forth of his ſpirit upon ſons and upon daughters, &amp; in it propheſie of the things which ſhal ſhortly come to paſs; and as freely I have received, ſo I give forth, calling you to be partakers of the ſame grace, ſetting before you all this day, life and death, chooſe you whether; if you love your iniquities pleaſures and profits of the world, betraying the juſt for them, then with the world muſt you to deſtruction; but if to the light you come, and by it be ſubjected, him ſhall you receive who is not of this World, and by him be led into the inheritance which is undefiled, and fadeth not away; pure is this inheritance, and ſo muſt all they be that inherit it; and that you may be bleſſed by that which leads out of the curſe, love and follow that which condemns all injuſtice, deceit, vain, wanton and un<g ref="char:EOLhyphen"/>profitable words &amp; actions, and leads to juſtice, righteouſneſs and ſo berneſs And then ſhall you know, that God in love to all your ſouls hath ſent this viſitation, though by one of them whom the ſcornful world calls Quakers, known by the Name of</p>
+            <closer>
+               <signed>REBECKA TRAVERS.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
